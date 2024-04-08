@@ -2,11 +2,11 @@
 
 ![first_image](first_image.png)
 
-![input_video](input_video.mp4)
-
 The objective of this program was to perform visual odometry only using a single camera.
 
-The input data is frames from a video of a pedestrian with a camera walking the perimeter of a building. The first frame is shown below.
+The input data is frames from a video of a pedestrian with a camera walking the perimeter of a building. ![input_video](input_video.mp4)
+
+The first frame is shown below.
 
 ![first_frame](first_10_images/1540479358.061281.png)
 
